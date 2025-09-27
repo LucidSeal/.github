@@ -1,5 +1,4 @@
-# .github
-LucidSeal — Where Digital Trust Begins
+# LucidSeal — Where Digital Trust Begins
 
 LucidSeal is a community-minded project that makes **Digital Trust** simple, visible, and practical.
 
