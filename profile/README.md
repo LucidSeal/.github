@@ -1,26 +1,26 @@
-# LucidSeal — Where Digital Trust Begins
+# LucidSeal
 
-LucidSeal is a community-minded project that makes **Digital Trust** simple, visible, and practical.
+**Retired digital trust project · 2025–2026**
 
-- 🔎 **Try the Digital Trust Check** — baseline your practices and get simple next steps  
-- 🛡️ **Earn & display your badge** — show progress publicly with a shareable trust signal  
-- 🧰 **Grab templates & assets** — privacy, transparency, and security resources to get moving fast  
-- 💛 **Support the project** — keep domains & infra running via Buy Me a Coffee
+LucidSeal was an exploratory digital trust project used to test practical tools, language and approaches for making trust easier to see and discuss.
 
-## Get Started
-- Website: `https://lucidseal.org`
-- Digital Trust Check: `https://lucidseal.org/quiz`
-- Resources & Assets: `https://assets.lucidseal.org`
-- Status: 'https://status.lucidseal.org'
-- Service Desk: 'https://lucidseal.atlassian.net/servicedesk/customer/portal/34'
-- Support LucidSeal: `https://buymeacoffee.com/lucidseal`
+The LucidSeal product ecosystem is no longer maintained. This GitHub organisation remains as a **provenance record** of that work and the experiments that informed what followed.
 
-## Principles
-**Privacy by Default • Transparency in Action • Secure Foundations • Community First**
+## Where the work continued
 
-## Contribute
-We welcome copy tweaks, accessibility improvements, and issue reports.  
-Have an idea? Open an issue in the relevant repo or contact the Service Desk.
+- **[TrustSurface](https://trustsurface.org/)** — framework and research for making digital trust visible, assessable and governable.
+- **[ThreatScope Check](https://threatscopecheck.com/)** — practical trust-surface triage using observable public domain signals.
+- **[.au Domain Observatory](https://domainobservatory.au/)** — independent longitudinal research into public trust signals across the `.au` namespace.
+- **[Domain Governance Baseline](https://baseline.bryanchetcuti.com/)** — a stable, citable ten-question starting point for domain governance.
 
----
-*Built in the open. Focused on clear, human outcomes.*
+## This organisation
+
+Most repositories in this organisation are archived. They preserve the implementation history, experiments and working artefacts of LucidSeal, but should not be treated as maintained products, current guidance or supported services.
+
+`lucidseal-app` is retained only to publish the small provenance/signpost surface at **[lucidseal.org](https://lucidseal.org/)**.
+
+No attempt is being made to keep the former quiz, badges, APIs, Signals, Insights, Resilience or related workbenches alive as dormant products.
+
+## Stewardship
+
+LucidSeal was created and stewarded by **[Bryan Chetcuti](https://bryanchetcuti.com/)**.
